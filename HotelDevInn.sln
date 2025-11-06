@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HotelDevInn", "HotelDevInn\HotelDevInn.csproj", "{3C8C3994-2EA5-44F8-A7C1-B337E1AAC45C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3C8C3994-2EA5-44F8-A7C1-B337E1AAC45C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3C8C3994-2EA5-44F8-A7C1-B337E1AAC45C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3C8C3994-2EA5-44F8-A7C1-B337E1AAC45C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3C8C3994-2EA5-44F8-A7C1-B337E1AAC45C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
